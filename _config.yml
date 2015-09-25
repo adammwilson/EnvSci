@@ -27,7 +27,7 @@ me-img: "/img/career/earth.png"
 # Career variables
 
 events:
-  - image: {{site.baseurl}}/img/career/Literacy.png
+  - image: "{{site.baseurl}}/img/career/Literacy.png"
     date: ""
     description: "Environmental Literacy, Science Literacy, and Sustainability"
   - image: "/img/career/Population.png"
