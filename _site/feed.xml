@@ -3,8 +3,8 @@
 	<channel>
 		<title>Environmental Science</title>
 		<description>Course Description website for Geography (GEO) 104 Environmental Science at the University at Buffalo, NY</description>		
-		<link>http://adammwilson.github.io/</link>
-		<atom:link href="http://adammwilson.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>
