@@ -1,7 +1,7 @@
 # Site settings
 
-url: "http://adammwilson.github.io"
-title: "{ Environmental Science }"
+baseurl: "http://adammwilson.github.io/EnvSci"
+title: "Environmental Science"
 description: "Course Description website for Geography (GEO) 104 Environmental Science at the University at Buffalo, NY"
 keywords: "Environmental Science"
 favicon: "/img/favicon.ico"
@@ -9,7 +9,6 @@ black-favicon: "/img/black-lab-glass.ico"
 google-tracking-id: "UA-2684666-2"
 disqus-shortname: "envsci"
 author.name: "Adam M. Wilson"
-baseurl: "/EnvSci"
 
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
