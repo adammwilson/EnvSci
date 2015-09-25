@@ -9,6 +9,7 @@ black-favicon: "/img/black-lab-glass.ico"
 google-tracking-id: "UA-2684666-2"
 disqus-shortname: "envsci"
 author.name: "Adam M. Wilson"
+baseurl: /EnvSci
 
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
@@ -18,56 +19,56 @@ pages_list:
   About: 'about'
   Topics: 'topics'
 
-background-img: "/img/intro-bg.jpg"
+background-img: "{{ site.baseurl }}/img/intro-bg.jpg"
 
 # About variables
 
-me-img: "/img/career/earth.png"
+me-img: "{{ site.baseurl }}/img/career/earth.png"
 
 # Career variables
 
 events:
-  - image: "/img/career/Literacy.png"
+  - image: "{{ site.baseurl }}/img/career/Literacy.png"
     date: ""
     description: "Environmental Literacy, Science Literacy, and Sustainability"
-  - image: "/img/career/Population.png"
+  - image: "{{ site.baseurl }}/img/career/Population.png"
     date: ""
     description: "Human Population and Environmental Health"
-  - image: "/img/career/Footprint.png"
+  - image: "{{ site.baseurl }}/img/career/Footprint.png"
     date: ""
     description: "Consumption and the Environmental Footprint"
-  - image: "/img/career/Ecosystems.png"
+  - image: "{{ site.baseurl }}/img/career/Ecosystems.png"
     date: ""
     description: "Ecology (Ecosystems, Populations, and Communities)"
-  - image: "/img/career/Biodiversity.png"
+  - image: "{{ site.baseurl }}/img/career/Biodiversity.png"
     date: ""
     description: "Biodiversity and Evolution"
-  - image: "/img/career/Water.png"
+  - image: "{{ site.baseurl }}/img/career/Water.png"
     date: ""
     description: "Water Resources"
-  - image: "/img/career/Food.png"
+  - image: "{{ site.baseurl }}/img/career/Food.png"
     date: ""
     description: "Food Resources"
-  - image: "/img/career/Fossil.png"
+  - image: "{{ site.baseurl }}/img/career/Fossil.png"
     date: ""
     description: "Fossil Fuels"
-  - image: "/img/career/Air.png"
+  - image: "{{ site.baseurl }}/img/career/Air.png"
     date: ""
     description: "Air Pollution"
-  - image: "/img/career/Renewables.png"
+  - image: "{{ site.baseurl }}/img/career/Renewables.png"
     date: ""
     description: "Renewable Engery"
-  - image: "/img/career/Urbanization.png"
+  - image: "{{ site.baseurl }}/img/career/Urbanization.png"
     date: ""
     description: "Urbanization"
-  - image: "/img/career/Sustainability.png"
+  - image: "{{ site.baseurl }}/img/career/Sustainability.png"
     date: ""
     description: "Sustainability and Environmental Policy"
 
 # First image of the Career timeline
-career-img: "/img/career/earth.png"
+career-img: "{{ site.baseurl }}/img/career/earth.png"
 
-404-img: "/img/labtocat.png"
+404-img: "{{ site.baseurl }}/img/labtocat.png"
 
 # Exclusion list from the generated _site
 exclude: ["Rakefile", "LICENSE", "readme.markdown", "vendor"]
