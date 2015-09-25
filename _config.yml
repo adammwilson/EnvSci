@@ -1,6 +1,5 @@
 # Site settings
-url: "http://adammwilson.github.io"
-baseurl: "/EnvSci"
+url: "http://adammwilson.github.io/EnvSci"
 title: "Environmental Science"
 description: "Course Description website for Geography (GEO) 104 Environmental Science at the University at Buffalo, NY"
 keywords: "Environmental Science"
