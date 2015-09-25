@@ -19,7 +19,7 @@ pages_list:
   About: 'about'
   Topics: 'topics'
 
-background-img: "{{site.baseurl}}/img/intro-bg.jpg"
+background-img: {{site.baseurl}}"/img/intro-bg.jpg"
 
 # About variables
 
