@@ -29,7 +29,7 @@ events:
   - image: "{{site.baseurl}}/img/career/Literacy.png"
     date: ""
     description: "Environmental Literacy, Science Literacy, and Sustainability"
-  - image: {{site.baseurl}}/img/career/Population.png
+  - image: "{{site.baseurl}}/img/career/Population.png"
     date: ""
     description: "Human Population and Environmental Health"
   - image: "/img/career/Footprint.png"
