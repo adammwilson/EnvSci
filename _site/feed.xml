@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>{ Environmental Science }</title>
+		<title>Environmental Science</title>
 		<description>Course Description website for Geography (GEO) 104 Environmental Science at the University at Buffalo, NY</description>		
-		<link>http://adammwilson.github.io/EnvSci</link>
-		<atom:link href="http://adammwilson.github.io/EnvSci/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://adammwilson.github.io/</link>
+		<atom:link href="http://adammwilson.github.io//feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>
