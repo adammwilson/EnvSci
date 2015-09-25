@@ -17,19 +17,19 @@ pages_list:
   About: 'about'
   Topics: 'topics'
 
-background-img: "{{ site.baseurl }}/img/intro-bg.jpg"
+background-img: "{{site.baseurl}}/img/intro-bg.jpg"
 
 # About variables
 
-me-img: "{{ site.baseurl }}/img/career/earth.png"
+me-img: "{{site.baseurl}}/img/career/earth.png"
 
 # Career variables
 
 events:
-  - image: "{{ site.baseurl }}/img/career/Literacy.png"
+  - image: "{{site.baseurl}}/img/career/Literacy.png"
     date: ""
     description: "Environmental Literacy, Science Literacy, and Sustainability"
-  - image: "{{ site.baseurl }}/img/career/Population.png"
+  - image: "{{site.baseurl}}/img/career/Population.png"
     date: ""
     description: "Human Population and Environmental Health"
   - image: "/img/career/Footprint.png"
